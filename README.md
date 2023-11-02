@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## `git clome`
+
+clone the git repository into your respective folder:
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -26,3 +30,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Chiragrs21/ecom.git
+git push -u origin main
