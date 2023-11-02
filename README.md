@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 category Filter.\
 Price Filter.\
 Search Query.\
-Pagging Filter.\
+Pagging Filter.
 
 ## Available Scripts
 
