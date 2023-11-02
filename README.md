@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Features 
+category Filter.\
+Price Filter.\
+Search Query.\
+Pagging Filter.\
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -37,4 +43,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 ## commands
 cd <folder_name>.\
 npm install.\
-npm start.\
+npm start.
