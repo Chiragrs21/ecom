@@ -6,9 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-## `git clome`
+## `git clone`
 
 clone the git repository into your respective folder:
+
+cd <folder_name>
+
+### `npm install`
+
+install all the necessary packages
 
 ### `npm start`
 
@@ -28,10 +34,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-git init
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Chiragrs21/ecom.git
-git push -u origin main
+### `cd <folder_name>`
+### `npm install`
+### `npm start`
