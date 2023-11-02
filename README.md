@@ -16,7 +16,7 @@ In the project directory, you can run:
 
 clone the git repository into your respective folder:
 
-cd <folder_name>
+cd ecom
 
 ### `npm install`
 
@@ -41,6 +41,6 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ## commands
-cd <folder_name>.\
+cd ecom.\
 npm install.\
 npm start.
